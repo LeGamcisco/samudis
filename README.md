@@ -25,7 +25,6 @@
 ## Instalation
 1. Clone repository
 ```bash
-git clone https://github.com/trusur/egateway-laravel.git
 cd egateway-laravel
 cp .env.example .env
 composer install
