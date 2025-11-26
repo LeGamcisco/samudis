@@ -8,7 +8,6 @@
 1. `php8.2` or greater
 2. `PostgreSQL`
 3. Enable PHP Extention like : `php-intl`,`php-odbc`,`php-mbstring`,`php-curl`,`php-pgsql`
-4. Allow Firewall to `https://ditppu.menlhk.go.id`, `https://api.trusur.tech`, `https://api-cems.trusur.tech` on port `443` (https)
 
 ## Recomendation Tools in Server
 ### Mandatory:
