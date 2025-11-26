@@ -1,0 +1,4 @@
+labjack-ljm
+pymodbus
+psycopg2
+python-dotenv
