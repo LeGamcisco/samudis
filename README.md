@@ -1,4 +1,4 @@
-# eGateway v3 - [23-12-2023 version]
+# Samudis - [23-12-2023 version]
  <p>
     <strong>eGateway</strong> adalah sistem pengelola data CEMS <i>(Continue Emision Monitoring System)</i>. eGateway memiliki fitur yang mudah digunakan dan terintegrasi dengan <strong>SISPEK</strong>
     (Sistem Informasi Pemantauan Emisi Industri Kontinyu)
